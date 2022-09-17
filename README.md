@@ -27,3 +27,11 @@ https://github.com/ronjoethomas/ECE444-F2022-EP
 **Activity 7**\
 ![image](https://user-images.githubusercontent.com/59146858/190841268-98136d1d-7ac0-44f2-a144-bec4b804afcf.png)
 ![image](https://user-images.githubusercontent.com/59146858/190841103-b36471c4-f247-44e5-a152-aa9c55d7af80.png)
+
+
+**Activity 8**\
+![image](https://user-images.githubusercontent.com/59146858/190871932-86c55fe4-38ac-4912-b3bd-ae429852addc.png)
+![image](https://user-images.githubusercontent.com/59146858/190871953-35226b8b-456b-4924-bc8b-a40a4493d158.png)
+
+
+
