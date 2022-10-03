@@ -2,6 +2,18 @@
 
 This is a modified version of the previous Assignment1 template by Ron Thomas.
 
+
+**Activity 2**
+![image](https://user-images.githubusercontent.com/59146858/193521255-4661168f-6912-4551-95ba-b4b4fef357c6.png)
+
+**Activity 3**
+![image](https://user-images.githubusercontent.com/59146858/193521321-93f6c6ed-79cd-4d54-96dd-0987d6e908c2.png)
+
+**Activity 4**
+![image](https://user-images.githubusercontent.com/59146858/193521380-a8c6bddb-84c3-4ef8-88c9-a97833fe1ae0.png)
+![image](https://user-images.githubusercontent.com/59146858/193521426-4d567ce8-190d-4933-b311-4307f67f5af5.png)
+
+
 The deployed version can be found at https://lab3-docker.herokuapp.com.
 
 ## Changes
